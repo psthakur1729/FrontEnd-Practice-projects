@@ -1,0 +1,52 @@
+body{
+  background-color: hsl(204, 43%, 93%);
+  font-family: Karla;
+}
+h2{
+  font-weight: 700;
+  color: hsl(179, 62%, 43%);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h4{
+  color: #fff;
+  font-weight: bold;
+}
+.x{
+  color: hsl(71, 73%, 54%);
+}
+.wrap-container{
+  padding: 40px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+}
+p{
+  margin: 0;
+}
+.dollar{
+  font-size: 40px;
+}
+.top-box{
+  background-color: #fff;
+  padding:50px;
+}
+.left-box{
+  background-color: hsl(179, 62%, 43%);
+  padding:50px;
+  color: #fff;
+}
+.right-box{
+  background-color: hsl(179, 55%, 40%);
+  padding: 50px;
+  color: #fff;
+}
+
+.btn{
+  margin-top: 20px;
+  background-color: hsl(71, 73%, 54%);
+  width: 70%;
+}
+footer{
+  text-align: center;
+  margin: 0;
+}
